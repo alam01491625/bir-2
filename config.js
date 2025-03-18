@@ -56,7 +56,7 @@ var config = {
         balloons_flying: "Something's Missing",
         cake_fadein: "Cake?",
         light_candle: "Candle?",
-        wish_message: "Happy Birthday Rafiya ma'am",
+        wish_message: "Click here Birthday girl",
         story: "SOME MESSAGE FOR YOU"
     },
 
